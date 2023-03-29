@@ -1,3 +1,3 @@
-# Frappo Wallet
+# Wallet
 
 MetaMask fork extension.
