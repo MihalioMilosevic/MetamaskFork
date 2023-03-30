@@ -1,4 +1,3 @@
 # Wallet
 
-MetaMask fork extension.
-Welcome
+Hello
